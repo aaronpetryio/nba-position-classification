@@ -38,7 +38,7 @@ combined_headers = team_header + headers
 nba_player_data.append([ele for ele in combined_headers])
 
 #Manually add the Country column because it is blank on basketball-reference
-nba_player_data[0][6] = "Country"
+nba_player_data[0][7] = "Country"
 
 #Complete the data scrape for all NBA teams 
 for nba_team in nba_teams:
