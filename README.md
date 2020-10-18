@@ -2,7 +2,7 @@
 
 nba-position-classification is an exploration into using K-Means clustering to accurately predict what position an NBA player plays based on their height and weight. 
 
-## Data Cleaning
+## Data Scraping
 
 The data was scraped from [Basketball-Reference](basketball-reference.com) using a custom built webscraper that leverages [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
 
