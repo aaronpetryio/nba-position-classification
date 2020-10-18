@@ -1,6 +1,6 @@
-# nba-position-guesser
+# nba-position-classification
 
-nba-position-guesser is an exploration into using K-Means clustering to accurately predict what position an NBA player plays based on their height and weight. 
+nba-position-classification is an exploration into using K-Means clustering to accurately predict what position an NBA player plays based on their height and weight. 
 
 ## Data Cleaning
 
